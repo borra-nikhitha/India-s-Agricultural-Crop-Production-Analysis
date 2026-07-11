@@ -1,3 +1,20 @@
-# India-s-Agricultural-Crop-Production-Analysis
-Interactive Tableau dashboard for analyzing agricultural crop production using visualizations, filters, and story-based insights.
-This project presents an Agricultural Crop Production Dashboard developed using Tableau. It visualizes agricultural crop production data through interactive charts, maps, filters, and stories, enabling users to explore production trends by state, district, crop, and season. The dashboard simplifies complex datasets into meaningful insights that support agricultural planning and informed decision-making.
+Agricultural Crop Production Dashboard
+
+ Project Overview
+This project analyzes agricultural crop production using Tableau Public. It provides interactive visualizations to analyze crop production, cultivated area, yield, and seasonal trends across different states and districts.
+
+ Tools Used
+- Tableau Public
+- Microsoft Excel
+- GitHub
+
+ Dataset
+Agricultural Crop Production Dataset (1997–2021)
+
+ Features
+- State-wise Production Analysis
+- Crop-wise Analysis
+- Season-wise Analysis
+- District-wise Analysis
+- Interactive Dashboard
+- Tableau Story
