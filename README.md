@@ -5,8 +5,9 @@ An interactive analytics project that explores Agricultural Crop Production in I
 Live Dataset Stats: Agricultural Crop Production Dataset (1997–2021) · State-wise, District-wise, Crop-wise and Season-wise analysis · Cleaned dataset with preprocessing completed.
 
  Project Structure
+
 project/
-│
+
 ├── app.py                 
 ├── requirements.txt       
 │
@@ -72,7 +73,11 @@ Production (Tonnes)
 Yield
  Tableau Resources
 
+Tableau Dashboard:
+https://public.tableau.com/views/Agricultural_Crop_Production_Dashboard_main/AgriculturalCropProductionDashboard19972021
 
+Tableau Public Profile:
+https://public.tableau.com/app/profile/b.nikhitha1726
 
 Key Insights
 The dashboard provides:
