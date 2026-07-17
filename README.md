@@ -4,24 +4,24 @@ An interactive analytics project that explores Agricultural Crop Production in I
 
 Live Dataset Stats: Agricultural Crop Production Dataset (1997–2021) · State-wise, District-wise, Crop-wise and Season-wise analysis · Cleaned dataset with preprocessing completed.
 
-Project Structure
+ Project Structure
 project/
 │
-├── app.py                 # Flask application and routes
-├── requirements.txt       # Python dependencies
+├── app.py                 
+├── requirements.txt       
 │
 ├── templates/
-│   ├── index.html         # Home page
-│   ├── dashboard.html     # Embedded Tableau Dashboard
-│   ├── story.html         # Embedded Tableau Story
-│   ├── about.html         # Project documentation
-│   └── dataset.html       # Dataset preview and download
+│   ├── index.html        
+│   ├── dashboard.html     
+│   ├── story.html         
+│   ├── about.html         
+│   └── dataset.html       
 │
 └── assets/
     ├── css/
-    │   └── style.css      # Website styling
+    │   └── style.css      
     ├── js/
-    │   └── app.js         # JavaScript functionality
+    │   └── app.js         
     ├── images/
     └── icons/
  
@@ -39,7 +39,7 @@ Python 3.10 or later
 pip
 Installation
 # Clone the repository
-git clone https://github.com/yourusername/Agricultural-Crop-Production-Dashboard.git
+git clone https://github.com/borra-nikhitha/Agricultural-Crop-Production-Dashboard.git
 
 cd Agricultural-Crop-Production-Dashboard
 
@@ -72,8 +72,7 @@ Production (Tonnes)
 Yield
  Tableau Resources
 
-Tableau Story:
-(Add your Tableau Story link if available)
+
 
 Key Insights
 The dashboard provides:
